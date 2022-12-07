@@ -21,6 +21,20 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'bio',
+        'show_email',
+        'birthdate',
+        'show_birthdate',
+        'hide_warning',
+        'hide_tag',
+        'comment_notification',
+        'mailbox_notification',
+        'like_notification',
+        'allow_external_collection',
+        'allow_gift',
+        'gift_notification',
+        'allow_history',
+        'rank'
     ];
 
     /**
@@ -31,6 +45,7 @@ class User extends Authenticatable
     protected $hidden = [
         'password',
         'remember_token',
+        'rank'
     ];
 
     /**
