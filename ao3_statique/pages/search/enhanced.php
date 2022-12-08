@@ -33,16 +33,6 @@
                 <div class="row">
                     <div class="col-md-10 offset-md-1">
                         <div class="row">
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <label>Result Type:</label>
-                                    <select class="select2" multiple="multiple" data-placeholder="Any" style="width: 100%;">
-                                        <option>Text only</option>
-                                        <option>Images</option>
-                                        <option>Video</option>
-                                    </select>
-                                </div>
-                            </div>
                             <div class="col-3">
                                 <div class="form-group">
                                     <label>Sort Order:</label>
@@ -64,13 +54,52 @@
                         </div>
                         <div class="form-group">
                             <div class="input-group input-group-lg">
-                                <input type="search" class="form-control form-control-lg" placeholder="Type your keywords here" value="Lorem ipsum">
+                                <input type="search" class="form-control form-control-lg" placeholder="Author">
+                                
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Any Key">
                                 <div class="input-group-append">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Name">
+                                
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Fandom">
+                                
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Character">
+                                
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Relationship">
+                                
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group input-group-lg">
+                                <input type="search" class="form-control form-control-lg" placeholder="Other tag">
+                                
+                            </div>
+                        </div>
+                        <div class="input-group-append">
                                     <button type="submit" class="btn btn-lg btn-default">
                                         <i class="fa fa-search"></i>
                                     </button>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

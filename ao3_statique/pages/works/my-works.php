@@ -48,10 +48,17 @@
         <div class="card-header">
           <h3 class="card-title">Projects</h3>
 
-
+          <div class="card-tools">
+            <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+              <i class="fas fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-tool" data-card-widget="remove" title="Remove">
+              <i class="fas fa-times"></i>
+            </button>
+          </div>
         </div>
         <div class="card-body p-20">
-          <table class="table table-striped projects">
+        <table class="table table-striped projects">
               <tbody>
                   <tr>
                   <div class="post clearfix">
@@ -76,15 +83,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -110,15 +120,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -144,15 +157,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -178,15 +194,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -212,15 +231,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -246,15 +268,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -280,15 +305,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -314,15 +342,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
                   <tr>
@@ -348,15 +379,18 @@
 
                       <p>
                         <a href="#" class="link-black text-sm mr-2"><i class="fas fa-share mr-1"></i> Share</a>
-                        <a href="#" class="link-black text-sm"><i class="far fa-thumbs-up mr-1"></i> Like</a>
                         <span class="float-right">
                           <a href="#" class="link-black text-sm">
                             <i class="far fa-comments mr-1"></i> Comments (18)
                           </a>
                         </span>
                       </p>
-
-                      <input class="form-control form-control-sm" type="text" placeholder="Type a comment">
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-edit mr-1"></i> Mode edition</a>
+                      </p>
+                      <p>
+                        <a href="#" class="link-black text-sm mr-2"><i class="fas fa-trash mr-1"></i> Suprimer</a>
+                      </p>
                     </div>
                   </tr>
               </tbody>

@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="../../plugins/fontawesome-free/css/all.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="../../dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="../../dist/css/style.css">
 </head>
 <body class="hold-transition sidebar-mini">
 <!-- Site wrapper -->
@@ -82,7 +83,7 @@
           </div>
           <!-- /.card -->
       <div class="row">
-        <div class="col-12">
+        <div class="col-12 foot-2">
           <a href="#" class="btn btn-secondary">Cancel</a>
           <input type="submit" value="Save Changes" class="btn btn-success float-right">
         </div>
